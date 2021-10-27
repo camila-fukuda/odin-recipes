@@ -1,0 +1,43 @@
+body{
+    background-color: #4B3869;
+    font-family: 'Lucida Sans',Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1{
+    background-color: #664E88;
+    color: white;
+    text-align: center;
+}
+
+
+a{
+    text-decoration: none;
+    line-height: 2rem;
+    color: rgb(39, 39, 39);
+    font-weight: bold;
+}
+
+a:hover{
+    line-height: 3.5rem;
+    color: white;
+}
+
+li{
+    margin-right: 45px;
+}
+
+li:hover{
+    background-color: #63B4B8;
+}
+
+
+
+ul{
+    background-color: #A9E4D7;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    list-style: none;
+}
